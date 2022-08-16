@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Respondagram</title>
+    
     <script src="https://buildtest.respondagram.com/api/c207d4aa-b246-4a50-b93b-c9dcdf10df44"></script>
 </head> 
 <body > 
